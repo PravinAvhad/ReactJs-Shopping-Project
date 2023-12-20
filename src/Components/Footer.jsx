@@ -22,7 +22,7 @@ function Footer() {
                     <a href="tel: +22 2444 0822" class="links"><FontAwesomeIcon icon={faPhone} />  +022 2444 0822</a>
                     <a href="tel: +22 2854 0932" class="links"><FontAwesomeIcon icon={faPhone} /> +022 2854 0932</a>
                     <a href="mailto: xyz@gmail.com" class="links" id="ownemail"><FontAwesomeIcon icon={faEnvelope} /> xyz@gmail.com</a>
-                    <a href="#" class="links"><FontAwesomeIcon icon={faLocationDot} /> India.</a>
+                    <a href="/" class="links"><FontAwesomeIcon icon={faLocationDot} /> India.</a>
                 </div>
             </div>
         </div>
