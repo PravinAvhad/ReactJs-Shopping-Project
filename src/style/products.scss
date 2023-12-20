@@ -1,0 +1,18 @@
+.category {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+
+    >button {
+        &:hover {
+            color: white;
+            background-color: black;
+        }
+    }
+}
+
+@media screen and (max-width:516px) {
+    .category {
+        flex-direction: column;
+    }
+}
